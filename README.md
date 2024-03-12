@@ -1,2 +1,6 @@
 # SeminarioShaders2
- Ejemplos para el segundo seminario de shaders de Game Devs CSF
+Water shader made for the second shaders show and tell with Game Devs CSF
+
+Preview:
+![Preview](ShaderExample.png)
+
